@@ -1,0 +1,2 @@
+D:\QT\qtproject\map_make\debug\map_make.exe
+D:\Git\mygit\map_make\debug\map_make.exe

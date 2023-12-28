@@ -1,0 +1,13 @@
+﻿  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  Moc'ing mainwindow.h...
+  Moc'ing tileview.h...
+  Moc'ing DesignView.h...
+  DesignView.cpp
+  main.cpp
+  mainwindow.cpp
+  tileview.cpp
+  moc_mainwindow.cpp
+  moc_tileview.cpp
+  moc_DesignView.cpp
+  map_make.vcxproj -> D:\Git\mygit\map_make\debug\map_make.exe
